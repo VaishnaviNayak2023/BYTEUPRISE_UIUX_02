@@ -7,6 +7,9 @@ An email marketing template is a pre-designed layout that you can use to create 
 A good email marketing template should be:
 
 **- Visually Appealing:** Attractive and consistent with your brand's identity.
+
 **- Clear and Concise:** Communicates the message clearly without overwhelming the recipient.
+
 **- Responsive:** Optimized for viewing on different devices, including desktops and mobile phones.
+
 **- Actionable:** Includes a clear call-to-action (CTA) that encourages recipients to take the desired step.
